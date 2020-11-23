@@ -237,7 +237,7 @@ namespace _2lab {
         }
 
         static void Main (string[] args) {
-            // ChangeXmlConfig ("Source", "Jopa");
+            // ChangeXmlConfig ("Source", "Testing");
             // ChangeJsonConfig ("NeedCompression", false);
             try {
                 Run ();
